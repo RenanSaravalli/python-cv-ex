@@ -1,0 +1,3 @@
+José ; 35
+Renan; 19
+Cleber; 10
