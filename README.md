@@ -1,2 +1,2 @@
-# python-cv-ex
- Repositório com os exercícios realizados ao longo do curso de Python pelo Curso em Vídeo
+# Python desafios 
+Este repositório possui todos os exercícios que realizei através do curso de python administrado pelo Gustavo Guanabara no Curso em Vídeo. Pude aprimorar os princípios lógicos de programação, bem como aprender e colocar em prática as bases de desenvolvimento em python 
